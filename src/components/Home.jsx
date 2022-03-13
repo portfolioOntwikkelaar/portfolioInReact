@@ -7,7 +7,7 @@ const Home = () => {
         <p className='text-gray-600'>Je kan vind deze portfolio in mijn github account: ...</p>
         <h1 className='text-4xl sm:text-7xl font-bold text-[#ccd6f6]'>Project 39</h1>
         <h2 className='text-4xl sm:text-7xl font-bold text-[#838383]'>Ik ben de webontwikkelaar</h2>
-        <p className='text-[#8892b0] py-4 max-w-[700px]'>Meestal ik shrijf in React. Dit is mijn 4e portfolio project.</p>
+        <p className='text-[#8892b0] py-4 max-w-[700px]'>Meestal ik shrijf in React. Dit is mijn 4e portfolio project. ntelligentsia fashion axe gastropub polaroid raw denim vinyl unicorn truffaut. XOXO master cleanse vexillologist paleo shoreditch kickstarter portland 90's. Coloring book retro bushwick polaroid occupy. Pinterest chicharrones trust fund pabst sartorial. Shaman meditation celiac four dollar toast messenger bag paleo unicorn thundercats</p>
         <div>
           <button className='text-white group border-2 px-6 py-3 pr-2 my-2 flex items-center hover:bg-gray-600 hover:border-gray-600'>Overzicht <span className="group-hover:rotate-90 duration-300">
             <FaHandPointRight className="ml-3 "/>
